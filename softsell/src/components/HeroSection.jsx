@@ -87,8 +87,8 @@ const HeroSection = ({ darkMode }) => {
   };
 
   const ctaStyle = {
-    fontSize: '1.3rem',
-    color: 'black',
+    fontSize: '1.5rem',
+    color: 'yellow',
     marginTop: '20px',
     transition: 'all 0.3s ease',
   };
